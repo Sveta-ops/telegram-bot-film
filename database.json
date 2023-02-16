@@ -1,0 +1,82 @@
+{
+    "films": [
+        {
+            "uuid": "f123",
+            "name": "После. Долго и счастливо",
+            "genre": "Драма",
+            "country": "Америка",
+            "picture": "http://kinohod.ru/o/f2/40/f240e83f-81f8-4677-904a-a511889ba922.jpg",
+            "year": "Современный фильм",
+						"year_real": "2019",
+						"rate": "5.9",
+						"pr_rate": "6",
+						"length_chr": ["Да"],
+						"lenght": "1 час 45 минут"
+        },
+        {
+            "uuid": "f124",
+            "name": "Привычка расставаться",
+            "genre": "Драма",
+            "country": "Россия",
+            "picture": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/400bb4f5-a5da-4e58-92c4-7d7fbd19e92f/600x900",
+            "year":"Современный фильм",
+						"year_real": "2013",
+						"rate": "6.6",
+						"pr_rate": "7",
+						"length_chr": ["Нет", "Да"] ,
+						"lenght": "1 час 30 минут"
+        },
+        {
+            "uuid": "f125",
+            "name": "Тихое место",
+            "genre": "Хорор",
+            "country": "Америка",
+            "picture": "http://kinohod.ru/o/15/76/15768ac4-2754-4e03-bd6b-d2cee368bce0.jpg",
+            "year": "Современный фильм",
+						"year_real": "2018",
+						"rate": "6.8",
+						"pr_rate": "7",
+						"length_chr": ["Нет", "Да"],
+						"lenght": "1 час 30 минут"
+        },
+        {
+            "uuid": "f126",
+            "name": "Годзила",
+            "genre":"Хорор",
+            "country": "Япония",
+            "picture": "https://upload.wikimedia.org/wikipedia/ru/e/e0/Godzilla_2014_poster.jpg",
+            "year": "60ые",
+						"year_real": "1954",
+						"rate": "6.4",
+						"pr_rate": "6",
+						"length_chr": ["Да"],
+						"lenght": "2 часа 19 минут"
+        },
+        {
+            "uuid": "f127",
+            "name": "О чем говорят мужчины",
+            "genre": "Комедия",
+            "country": "Россия",
+            "picture": "https://www.film.ru/sites/default/files/movies/posters/1628403-2154186.jpeg",
+            "year": "00ые",
+						"year_real": "2010",
+						"rate": "7.8",
+						"pr_rate": "8",
+						"length_chr": ["Нет", "Да"],
+						"lenght": "1 час 30 минут"
+        },
+        {
+            "uuid": "f128",
+            "name": "Одуванчик",
+            "genre":"Комедия", 
+            "country": "Япония",
+            "picture": "https://www.film.ru/sites/default/files/movies/posters/76905.jpg",
+            "year": "90ые",
+						"year_real": "1985",
+						"rate": "7.3",
+						"pr_rate": "7", 
+						"length_chr": ["Нет"],
+						"lenght":"1 час 54 минуты"
+        }
+    ]
+}
